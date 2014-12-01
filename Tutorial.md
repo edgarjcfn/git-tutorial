@@ -18,3 +18,6 @@ Get your local commit history and push to the server
 ##hahaha i fixed the merge issue
 
 ##ilike to mess with your branch
+
+##"you bet, bitch", Stefan Zweig
+
