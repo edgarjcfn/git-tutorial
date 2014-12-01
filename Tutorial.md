@@ -11,3 +11,6 @@ Get your local commit history and push to the server
 
 ##checkout / branches
 Create another side-history that can be sync'ed later
+
+
+#new feature being developed
