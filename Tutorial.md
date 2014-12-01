@@ -10,9 +10,4 @@ Revert to a specific point in history
 Get your local commit history and push to the server
 
 ##checkout / branches
-
-##hello edgar, how are you?
-
-###You shall not pass
-
-##hahaha i fixed the merge issue
+Create another side-history that can be sync'ed later
